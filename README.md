@@ -41,6 +41,6 @@ With the above, it can be concluded that there was no type of bias for the revie
 We can trust that reviews are telling us relevant information about how satisfied customers are with the products they have purchased.
 It can also seen that the paid reviews was sincere and critical, which are very useful to improve the evaluated product.
 
-Bearing this information in mind, we can go on to make a more detailed analysis to find out the products that are most in demand and most accepted by consumers, as well as those that have been totally rejected.
+Bearing this information in mind, we can go on to make a more detailed analysis (statistical analysis) to support what we have concluded and also to find out the products that are most in demand and most accepted by consumers, as well as those that have been totally rejected. At the same time we can do a forecast analysis with scenarios for the rejected products to show how they could improve if they make changes to their products.
 
 With this information we can carry out marketing campaigns for the sale of outstanding products and promote the improvement of non-excellent products.
