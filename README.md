@@ -31,7 +31,7 @@ Of the 647 paid reviews, only 229 had a 5-star rating, while of the 74,113 revie
 
 That is, of the total reviews, 58% of the data obtained 5 stars, of which 35% came from the Vine program and 58% were independent.
 
-![Picture 2]()
+![Picture 2](https://github.com/LAURYMEOW/Amazon_Vine_Analysis/blob/main/Resources/Picture_chart.png)
 
 
 #### Summary:
