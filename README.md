@@ -19,7 +19,7 @@ To get to this point we first had to filter our database so that it had the righ
 
 With the above, we obtain the following findings:
 
-![Picture One]()
+![Picture One](https://github.com/LAURYMEOW/Amazon_Vine_Analysis/blob/main/Resources/Table.png)
 
 Of a total of 74,760 reviews, 647 were paid and 74,113 were not.
 
